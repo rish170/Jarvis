@@ -1,0 +1,10 @@
+wakeword: "jarvis"
+stt_provider: "whisper"
+tts_provider: "sapi"
+default_apps:
+  notepad: "notepad.exe"
+  browser: "chrome.exe"
+security:
+  require_confirmation: true
+network:
+  enable_remote_control: false

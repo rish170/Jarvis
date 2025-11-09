@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 venv/
 .env
+
+docs/architecture-notes.md
+
+.vscode/
+.idea/
+*.log
+*.tmp
