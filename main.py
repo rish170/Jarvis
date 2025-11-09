@@ -1,4 +1,4 @@
-from modules.voice_input import listen
+from modules.activation.voice_input import listen
 
 def jarvis_main():
     while True:
